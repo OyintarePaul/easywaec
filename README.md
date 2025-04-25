@@ -16,7 +16,7 @@
 
 ## Disclaimer
 
-* This website not affiliated with or endorsed by the West African Examinations Council (WAEC).
+* This website not affiliated with or endorsed by West African Examinations Council (WAEC).
 
 ## Contributing
 
